@@ -1,5 +1,5 @@
 # Sign-Up-Sign-Un-
-Sign Up and Sgin Page 
+Sign Up and Sgin Page created using HTML, CSS and Javascript.
 <br>
 <b> Here is the UI of Sign Up Page.</b>
 <br>
